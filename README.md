@@ -1,6 +1,6 @@
 # lichess-turneringsgenerator
 
-Script for å generere ukentlige Lichess-turneringer.
+Script for å generere ukentlige Offerspill-turneringer på [Lichess](https://lichess.org).
 
 Kjøring av scriptet genererer disse 3 turneringene for påfølgende uke:
 
